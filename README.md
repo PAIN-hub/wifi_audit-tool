@@ -70,7 +70,7 @@ Deep Scan (-A OS detection + vuln scripts)
 
 Clone the repo and make the script executable:
 
-``` git clone https://github.com/PAIN-hub/wifi-audit-tool.git```
+``` git clone https://github.com/PAIN-hub/wifi_audit-tool.git```
 ```cd wifi-audit-tool```
 ```chmod +x wifi_audit.sh```
 
